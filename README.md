@@ -3,6 +3,10 @@
 ## Summary
 The module helps to add ajax Add to Cart functionality to Hyva themes
 
+## Configuration
+
+There are several configuration options for this extension, which can be found at **STORES > Configuration > Commerce Enterprise > Hyva Ajax Add to Cart**.
+
 ## Installation
 ### Magento® Marketplace
 
